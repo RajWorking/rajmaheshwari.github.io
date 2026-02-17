@@ -2,7 +2,7 @@ import { SectionHeader } from './section-header';
 import { Card } from './ui/card';
 import { TagChip } from './tag-chip';
 import { Building2, Calendar, MapPin } from 'lucide-react';
-import sobLogo from 'figma:asset/42f6d116f54ac85dab0d1155c9737f66e98e62f4.png';
+import sobLogo from '../../assets/sob_logo.png';
 
 interface ExperienceItemProps {
   company: string;

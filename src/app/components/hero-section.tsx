@@ -1,6 +1,6 @@
 import { Linkedin, Github, GraduationCap, Mail } from 'lucide-react';
 import { Button } from './ui/button';
-import profileImage from 'figma:asset/82a4164584183ab9eee16e92c09c79d4ab2ad616.png';
+import profileImage from '../../assets/profile_img.png';
 
 export function HeroSection() {
   return (

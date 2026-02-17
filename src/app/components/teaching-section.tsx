@@ -1,7 +1,7 @@
 import { SectionHeader } from './section-header';
 import { Card } from './ui/card';
 import { GraduationCap, Users, ExternalLink } from 'lucide-react';
-import certificateIcon from 'figma:asset/0cfd883be75feb287b4cc35c91b45e2a18bbf4dd.png';
+import certificateIcon from '../../assets/certificate.png';
 
 interface CourseInfo {
   name: string;
