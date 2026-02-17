@@ -12,7 +12,7 @@ import { useEffect } from 'react';
 
 function App() {
   useEffect(() => {
-    document.title = 'Raj Maheshwari | ML/NLP Engineer';
+    document.title = 'Raj Maheshwari';
   }, []);
 
   return (
